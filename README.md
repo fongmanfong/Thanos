@@ -1,2 +1,3 @@
 # Resources
-Repository of resources
+
+A repository of academic papers, articles, books, videos etc.
