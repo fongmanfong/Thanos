@@ -11,3 +11,9 @@ A repository of academic papers, articles, books, videos etc.
 [Estimating Ad Effectiveness using Geo Experiments in a Time-Based Regression Framework](https://github.com/fongmanfong/Resources/blob/master/papers/Time_Based_Regression_Framework.pdf). Jouni Kerman, Peng Wang, and Jon Vaver. Google Inc. March 2017
 
 [Marketing Mix Modelling from multiple regression perspective. Ecaterina Mhitarean-Cuvsinov](https://github.com/fongmanfong/Resources/blob/master/papers/Marketing_Mix_Modelling_Multiple_Regression.pdf). KTH Royal Institute of Technology. May 18, 2017
+
+
+
+# Backlog
+
+Building Machines That Learn and Think Like People [https://arxiv.org/abs/1604.00289v3]
