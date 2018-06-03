@@ -1,3 +1,3 @@
 # Scratch Pad
 
-Snippets of notes
+My scratch pad for jotting down notes. 
