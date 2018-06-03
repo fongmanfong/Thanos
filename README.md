@@ -12,8 +12,11 @@ A repository of academic papers, articles, books, videos etc.
 
 [Marketing Mix Modelling from multiple regression perspective. Ecaterina Mhitarean-Cuvsinov](https://github.com/fongmanfong/Resources/blob/master/papers/Marketing_Mix_Modelling_Multiple_Regression.pdf). KTH Royal Institute of Technology. May 18, 2017
 
+## Videos
 
 
-# Backlog
 
-Building Machines That Learn and Think Like People [https://arxiv.org/abs/1604.00289v3]
+## Backlog
+
+[Building Machines That Learn and Think Like People] (https://arxiv.org/abs/1604.00289v3)
+[Christopher Fonnesbeck -  Bayesian Non-parametric Models for Data Science using PyMC3 - PyCon 2018] (https://www.youtube.com/watch?v=-sIOMs4MSuA&app=desktop)
