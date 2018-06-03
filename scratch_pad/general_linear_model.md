@@ -3,4 +3,4 @@
 
 ## How are regression, the t-test, and the ANOVA all versions of the general linear model?
 
-Regression: Y=β0+β1X(continuous)+ε where ε∼N(0,σ^2)
+Regression: !(http://latex.codecogs.com/svg.latex?Y%20%3D%20%5Cbeta_%7B0%7D%20&plus;%20%5Cbeta_%7B1%7DX_%7Bcontinious%7D%20&plus;%20%5Cvarepsilon)
