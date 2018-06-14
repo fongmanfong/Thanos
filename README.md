@@ -2,7 +2,7 @@
 
 A repository of academic papers, articles, books, videos etc.
 
-## Papers
+## Marketing Research
 
 [Mapping the customer journey: A graph-based framework for online attribution modeling](https://github.com/fongmanfong/Resources/blob/master/papers/A_Graph_Based_Framework_for_Online_Attribution_Modeling.pdf). Eva Anderl, Ingo Becker, Florian v. Wangenheim, Jan H. Schumann. 2014
 
@@ -12,12 +12,11 @@ A repository of academic papers, articles, books, videos etc.
 
 [Marketing Mix Modelling from multiple regression perspective. Ecaterina Mhitarean-Cuvsinov](https://github.com/fongmanfong/Resources/blob/master/papers/Marketing_Mix_Modelling_Multiple_Regression.pdf). KTH Royal Institute of Technology. May 18, 2017
 
-## Videos
+## Data Visualization
 
+[How Humans See Data - John Rauser - Velocity Amsterdam 2016](https://www.youtube.com/watch?v=fSgEeI2Xpdc&t=2s)
+[Fundamentals of Data Visualization](http://serialmentor.com/dataviz/aesthetic-mapping.html)
 
+## Python
 
-## Backlog
-
-[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289v3)
-
-[Christopher Fonnesbeck -  Bayesian Non-parametric Models for Data Science using PyMC3 - PyCon 2018](https://www.youtube.com/watch?v=-sIOMs4MSuA&app=desktop)
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
