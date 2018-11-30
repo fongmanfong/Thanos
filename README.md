@@ -12,6 +12,11 @@ A repository of academic papers, articles, books, videos etc.
 
 [Marketing Mix Modelling from multiple regression perspective. Ecaterina Mhitarean-Cuvsinov](https://github.com/fongmanfong/Resources/blob/master/papers/Marketing_Mix_Modelling_Multiple_Regression.pdf). KTH Royal Institute of Technology. May 18, 2017
 
+## Blog Articles
+
+[AirBnB - Growing Our Host Community with Online Marketing](https://medium.com/airbnb-engineering/growing-our-host-community-with-online-marketing-9b2302299324)
+[WayFair - Pylift: A Fast Python Package for Uplift Modeling](https://tech.wayfair.com/2018/10/pylift-a-fast-python-package-for-uplift-modeling/)
+
 ## Data Visualization
 
 [How Humans See Data - John Rauser - Velocity Amsterdam 2016](https://www.youtube.com/watch?v=fSgEeI2Xpdc&t=2s)
