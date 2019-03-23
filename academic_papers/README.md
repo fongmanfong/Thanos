@@ -9,8 +9,11 @@
 
 [Marketing Mix Modelling from multiple regression perspective. Ecaterina Mhitarean-Cuvsinov](/academic_papers/Marketing_Mix_Modelling_Multiple_Regression.pdf). KTH Royal Institute of Technology. May 18, 2017
 
+[Wharton Marketing Papers] (https://repository.upenn.edu/marketing_papers/) 
+
 ## Other Interesting Papers
 
 [The Gender Earnings Gap in the Gig Economy: Evidence from over a Million Rideshare Drivers](/academic_papers/UberPayGap.pdf) Cody Cook, Rebecca Diamond, Jonathan Hall, John A. List, and Paul Oyer. March 8, 2019
 
-[Tutorial in Biostatistics Survival Analysis in Observational Studies](/academic_papers/Tutorials_in_Biostatistics_Survival_Analysis_in_Observational_Studies). Kate Bull And David J. Spiegelhalter. 1997
+[Tutorial in Biostatistics Survival Analysis in Observational Studies](/academic_papers/Tutorials_in_Biostatistics_Survival_Analysis_in_Observational_Studies.pdf). Kate Bull And David J. Spiegelhalter. 1997
+
