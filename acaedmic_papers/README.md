@@ -1,7 +1,7 @@
 
 ## Marketing Research
 
-[Mapping the customer journey: A graph-based framework for online attribution modeling](https://github.com/fongmanfong/Resources/blob/master/papers/A_Graph_Based_Framework_for_Online_Attribution_Modeling.pdf). Eva Anderl, Ingo Becker, Florian v. Wangenheim, Jan H. Schumann. 2014
+[Mapping the customer journey: A graph-based framework for online attribution modeling](/A_Graph_Based_Framework_for_Online_Attribution_Modeling.pdf). Eva Anderl, Ingo Becker, Florian v. Wangenheim, Jan H. Schumann. 2014
 
 [Measuring Ad Effectiveness Using Geo Experiments](https://github.com/fongmanfong/Resources/blob/master/papers/Measuring_Ad_Effectiveness_Using_Geo_Experiments.pdf). Jon Vaver, Jim Koehler. Google Inc.
 
